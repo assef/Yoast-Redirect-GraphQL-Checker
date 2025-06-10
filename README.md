@@ -90,7 +90,10 @@ Copyright (c) 2025 Leonardo Assef
 
 ## 🙋‍♂️ Author
 Leonardo Assef
+
 GitHub: [@assef](https://github.com/assef)
+
+[Linkedin](https://www.linkedin.com/in/leonardo-assef/)
 
 ## 🔗 Plugin Links
 - [Yoast SEO Premium](yoast.com)
